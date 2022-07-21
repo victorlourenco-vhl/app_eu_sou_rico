@@ -1,5 +1,4 @@
-# eu_sou_rico
-
+# Eu Sou Rico
 A new Flutter project.
 
 ## Getting Started
