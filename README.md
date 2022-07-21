@@ -12,3 +12,6 @@ O aplicativo é descrito como "uma obra de arte sem nenhuma função oculta", co
 Fonte: https://en.wikipedia.org/wiki/I_Am_Rich <br/><br/>
 
 Dito isso, através das videoaulas do canal **Polimorfismo** (https://www.youtube.com/c/CanalPolimorfismo) desenvolmi o meu próprio app "I'Am Rich" utilizando **Flutter**.
+
+## Meu App
+<img align="center" alt="Imagem do App" height="700" src="https://user-images.githubusercontent.com/78964459/180256234-5a9f8b2e-5d04-4e6a-bca5-197746f20d6c.png">
